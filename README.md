@@ -77,29 +77,14 @@ Eg:
 
 ```javascript
 export const userData = {
-  githubUser: "said7388",
-  devUsername: "said7388",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
-  skills: [
-    "React",
-    "NextJS",
-    "Redux",
-    "Express",
-    "NestJS",
-    "MySql",
-    "MongoDB",
-    "Postgres",
-    "Docker",
-    "AWS",
-  ],
-  timezone: "+6",
+  githubUser: 'rushikeshya',
+  github: 'https://github.com/rushikeshya',
+  hackerrank: 'https://www.hackerrank.com/profile/rushikeshyadav31',
+  linkedIn: 'https://linkedin.com/in/rushikeshyadav149/',
+  twitter: 'https://twitter.com/rushi_yadav1122',
+  leetcode: "https://leetcode.com/u/rushikesh_yadav/",
+  resume: "https://drive.google.com/file/d/1uICZYPUWmwiRqAv7zFZ_4BCXsmaWkHyw/view?usp=sharing",
+  skills: ['Python', 'SQL', 'Machine Learning', 'Deep Learning', 'Statistics', 'MySql', 'Oracle', 'MongoDB', 'Docker', 'Recommendation Systeams']
 };
 ```
 
